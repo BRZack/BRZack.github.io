@@ -1,5 +1,2 @@
-title: Zack Boone
-author:
-  email: zackary.boone@uconn.edu
-description: stuff
-remote_theme: jekyll/minima
+
+theme: minima
