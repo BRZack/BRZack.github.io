@@ -12,5 +12,5 @@ title: About
     <img width="80%" src="zack.png">  
 </p>
 
-Hello! I am a fourth year Ph.D. student at the University of Connecticut, working under the supervision of [Vasilis Chousionis](https://www2.math.uconn.edu/~chousionis/). 
+I'm a Ph.D. student at the University of Connecticut, working under the supervision of [Vasilis Chousionis](https://www2.math.uconn.edu/~chousionis/). 
 
