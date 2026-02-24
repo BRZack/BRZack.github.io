@@ -1,5 +1,7 @@
+---
 layout: home
 title: Papers
+---
 
 
 1. Capacities Characterizing Removable Sets for Various Function Spaces in Carnot Groups. Preprint (2025). [pdf](https://arxiv.org/pdf/2512.17167)
