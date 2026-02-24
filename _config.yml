@@ -3,7 +3,7 @@ description: hi
 author: Zack Boone
 avatar: zack.png
 email: zackary.boone@uconn.edu
-theme: hamilton/skins/midnight
+theme: midnight
 
 plugins:
   - jekyll-seo-tag
